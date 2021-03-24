@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="jsoup-1.13.1-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../library/jsoup-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/poi-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/poi-examples-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/poi-excelant-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/poi-integration-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/poi-ooxml-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/poi-ooxml-full-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/poi-ooxml-lite-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/poi-scratchpad-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../library/poi-5.0.0/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../library/jsoup-1.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
