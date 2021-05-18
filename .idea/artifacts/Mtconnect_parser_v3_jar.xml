@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mtconnect_parser_v3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mtconnect_parser_v3_jar</output-path>
+    <root id="archive" name="Mtconnect_parser_v2.jar">
+      <element id="module-output" name="Mtconnect_parser_v3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/jsoup-1.13.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/poi-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/poi-examples-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/poi-excelant-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/poi-integration-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/poi-ooxml-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/poi-ooxml-full-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/poi-ooxml-lite-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/poi-scratchpad-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../library/poi-5.0.0/lib/commons-collections4-4.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
